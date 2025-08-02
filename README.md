@@ -8,5 +8,5 @@ scripts for proxmox VMs and LXCs
 
 ### Install 
 ```bash
-wget -qO- https://github.com/jlai403/proxmox-scripts/docker-excalidraw/install.sh | bash
+wget -qO- https://raw.githubusercontent.com/jlai403/proxmox-scripts/refs/heads/main/docker-excalidraw/install.sh | bash
 ```
