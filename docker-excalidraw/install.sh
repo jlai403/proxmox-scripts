@@ -1,6 +1,6 @@
 #!/bin/bash
 
-INSTALL_PATH=/srv/docker/exclidraw/
+INSTALL_PATH=/srv/docker/excalidraw/
 
 mkdir -p $INSTALL_PATH
 chmod 750 /srv/docker
