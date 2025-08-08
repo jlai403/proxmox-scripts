@@ -1,1 +1,9 @@
 .DS_Store
+# Ignore all data directories
+*/data
+
+# ignore all env files
+.env
+*/.env
+
+
